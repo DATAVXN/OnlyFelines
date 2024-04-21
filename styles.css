@@ -12,10 +12,11 @@ body {
   .headerdiv {
     display: flex;
     background-color: lightblue;
+    padding: 10px;
   }
 
   .logosvg {
     background-color: orange;
-    margin: 0;
+    padding-right: 10px;
   }
   
