@@ -13,12 +13,10 @@ body {
   .logoandtitle {
     display: flex;
     justify-content: center;
-    background-color: lightblue;
     padding: 10px;
   }
 
   .logosvg {
-    background-color: orange;
     padding-right: 10px;
   }
   
