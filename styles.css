@@ -8,4 +8,14 @@ body {
   font-size: 18px;
   background-color: #FDEDEF;
   }
+
+  .headerdiv {
+    display: flex;
+    background-color: lightblue;
+  }
+
+  .logosvg {
+    background-color: orange;
+    margin: 0;
+  }
   
